@@ -20,9 +20,8 @@ O objetivo principal foi seguir as boas práticas de deploy, incluindo a configu
 
 Assista a uma demonstração completa da aplicação em funcionamento e um tour pela infraestrutura configurada no console da AWS.
 
-**➡️ [Assista ao vídeo aqui]()**
-
-*(Lembre-se de substituir o link acima pela URL real do seu vídeo no YouTube)*
+**➡️ [Assista ao vídeo aqui](https://drive.google.com/file/d/1xHa-E8rIYC_gzLP0J2cBrswGeKMUT2Q0/view?usp=sharing)**
+**➡️ [E aqui!](https://drive.google.com/file/d/18HTtWNMD3aPbNLyWWnerO9Lvo9hr9n93/view?usp=sharing)**
 
 -----
 
